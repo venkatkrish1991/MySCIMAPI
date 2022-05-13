@@ -1,0 +1,14 @@
+fastapi
+python-decouple
+jwt
+uvicorn
+pydantic
+fastapi.security
+email-validator
+asyncpg
+click
+gunicorn
+uvloop
+httptools
+starlette==0.13.6
+websockets==8.1
